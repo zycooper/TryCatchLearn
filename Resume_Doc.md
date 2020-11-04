@@ -3,7 +3,7 @@
 ### Skills && Techniques
 FrontEnd: 
 <img src ="https://angular.io/assets/images/logos/angular/angular.svg" width="20px">Angular, 
-<img src ="https://user-images.githubusercontent.com/14293805/36941746-0d65c6fa-1f63-11e8-8afa-ab2d28de86db.png" width="20px">Javascript, 
+<img src ="https://camo.githubusercontent.com/3e656c564799684232b370b9b3d227e98f65d460/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f4d6d7777322e706e67" width="20px">Javascript, 
 Html, 
 CSS, 
 Bootstrap, 
