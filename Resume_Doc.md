@@ -7,17 +7,17 @@ Data: Advance SQL, Excel, ETL, Google Analytics, Adobe SiteCatalyst, SAS<br/>
 Framwork: Entity Framework, .Net MVC<br/>
 
 ### Work Experience
-2015.10 - 2016.6<br/>
-MAG Retail Group<br/>
-Data Analyst<br/>
+2017.3 - Present<br/>
+SMS Infocomm<br/>
+MIS Engineer<br/>
 
 2016.6 - 2017.3<br/>
 Brook Consultants Inc<br/>
 Handset Tester<br/>
 
-2017.3 - Present<br/>
-SMS Infocomm<br/>
-MIS Engineer<br/>
+2015.10 - 2016.6<br/>
+MAG Retail Group<br/>
+Data Analyst<br/>
 
 ### Projects
 
