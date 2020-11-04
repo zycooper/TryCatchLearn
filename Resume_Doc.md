@@ -1,11 +1,12 @@
 ### About
 
 ### Skills && Techniques
-FrontEnd: Angular, Javascript, Html, CSS, Bootstrap, JQuery, PHP<br/>
+FrontEnd: <img src ="https://angular.io/assets/images/logos/angular/angular.svg" width="25px">Angular, 
+Javascript, Html, CSS, Bootstrap, JQuery, PHP<br/>
 BackEnd: C#, .Net Framework, .Net Core, Java, Python, VBA, VB<br/>
 Data: Advance SQL, Excel, ETL, Google Analytics, Adobe SiteCatalyst, SAS<br/>
 Framwork: Entity Framework, .Net MVC<br/>
-<img src ="https://angular.io/assets/images/logos/angular/angular.svg" width="10px">
+
 
 ### Work Experience
 2017.3 - Present<br/>
