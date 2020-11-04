@@ -24,10 +24,10 @@ Data Analyst<br/>
 ### Education
 2013 - 2015<br/>
 University of Texas at Dallas<br/>
-Master's Degree
+Master's Degree<br/>
 Information Technology and Management<br/>
 
 2008 - 2012<br/>
 North China University of Water Conservancy and Electric Power<br/>
-Bachelor's Degree
+Bachelor's Degree<br/>
 Infomation Management and Infomation System<br/>
