@@ -1,7 +1,7 @@
 ### About
 
 ### Skills && Techniques
-FrontEnd: Angular, Javascript, Html, CSS, JQuery, PHP<br/>
+FrontEnd: Angular, Javascript, Html, CSS, Bootstrap, JQuery, PHP<br/>
 BackEnd: C#, .Net Framework, .Net Core, Java, Python, VBA, VB<br/>
 Data: Advance SQL, Excel, ETL, Google Analytics, Adobe SiteCatalyst, SAS<br/>
 Framwork: Entity Framework, .Net MVC<br/>
