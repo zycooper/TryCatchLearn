@@ -5,7 +5,7 @@ FrontEnd:
 <img src ="https://angular.io/assets/images/logos/angular/angular.svg" width="20px">Angular, 
 <img src ="https://camo.githubusercontent.com/3e656c564799684232b370b9b3d227e98f65d460/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f4d6d7777322e706e67" width="20px">Javascript, 
 Html, 
-CSS, 
+<img src ="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="20px">CSS, 
 Bootstrap, 
 JQuery, 
 PHP<br/>
