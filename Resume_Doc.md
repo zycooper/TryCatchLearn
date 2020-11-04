@@ -1,4 +1,4 @@
-## About
-## Work Experience
-## Skills && Techniques
-## Projects
+### About
+### Work Experience
+### Skills && Techniques
+### Projects
