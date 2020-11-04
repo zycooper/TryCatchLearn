@@ -36,15 +36,15 @@ Infomation Management and Infomation System<br/>
 ---------------------------------------------------
 Project Raw:
 In SMS
-BI platform v0.5 Set up DB and optimize it
-BI platform v0.6 Build download and upload tool
-BI platform v0.7 Build dev_tool kit
-BI platform v1.0 - VB
-BI platform v2.0 - C# and .net framework - C/S and winform/WPF
-BI platform v2.1 - Add pricing team apps(include excel upload system)
-BI platform v3.0 - Add several systems for different teams, basically CRUD, but in web
-BI platform v3.1 - Web .net framework Webpage/Html/JS(Jquery) B/S
-BI platform v3.2 - Web .net Core/Angular B/S
-BI platform v3.3 - Add Email report system
+BI platform v0.5 Set up DB and optimize it<br/>
+BI platform v0.6 Build download and upload tool<br/>
+BI platform v0.7 Build dev_tool kit<br/>
+BI platform v1.0 - VB<br/>
+BI platform v2.0 - C# and .net framework - C/S and winform/WPF<br/>
+BI platform v2.1 - Add pricing team apps(include excel upload system)<br/>
+BI platform v3.0 - Add several systems for different teams, basically CRUD, but in web<br/>
+BI platform v3.1 - Web .net framework Webpage/Html/JS(Jquery) B/S<br/>
+BI platform v3.2 - Web .net Core/Angular B/S<br/>
+BI platform v3.3 - Add Email report system<br/>
 
-PIC system
+PIC system<br/>
