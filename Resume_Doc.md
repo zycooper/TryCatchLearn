@@ -44,7 +44,7 @@ Infomation Management and Infomation System<br/>
 
 ---------------------------------------------------
 Project Raw:
-In SMS
+In SMS<br/>
 BI platform v0.5 Set up DB and optimize it<br/>
 BI platform v0.6 Build download and upload tool<br/>
 BI platform v0.7 Build dev_tool kit<br/>
