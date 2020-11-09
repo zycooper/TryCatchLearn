@@ -15,3 +15,7 @@
 
 #### add local git to github
 >git push
+
+
+https://alligator.io/workflow/command-line-creating-files-directories/
+
