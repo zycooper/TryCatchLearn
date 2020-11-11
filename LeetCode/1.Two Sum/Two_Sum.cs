@@ -24,8 +24,9 @@ public class Solution {
     }   
 }
 /*
+    First Submission: 11-11-2020
     Submission Result:Time Limit Exceeded
-    Time Duration: 34 min
+    Solution Time Duration: 34 min
     Summary: still need to spend more time on this since the submission failed, anyway, start from the abandon on the vocabulary
     1. get more familier with C# list 
     2. get more familier with array
