@@ -25,7 +25,14 @@ public class Solution {
     //2. Hashtable
     private int[] TwoSum_BruteForce(int[] nums, int target)
     {
-
+        Dictionary<int, int> valToIndex = new Dictionary<int, int>(nums.Length);
+            for (int i = 0; i < nums.Length; i++) {
+                if (valToIndex.ContainsKey(target - nums[i])) {
+                    return new int[] { valToIndex[target - nums[i]], i };
+                }
+                valToIndex[nums[i]] = i;
+            }
+            return new int[] { -1, -1 };
     }
 }
 /*
