@@ -3,7 +3,6 @@ Each category do 5 Easy + 20 Medium
 
 Initial List:
 
-Dynamic Programming
 Array
 String
 Divide Conquer
@@ -18,8 +17,11 @@ Tree-Breadth First Search
 Tree-Depth First Search
 Graph-Breadth First Search
 Graph-Depth First Search
+Dynamic Programming
 Stack
 Linked List
 Trie
 ..
 
+
+created on 11/16/2020
