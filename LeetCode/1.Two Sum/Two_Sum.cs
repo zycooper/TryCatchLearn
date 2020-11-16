@@ -1,5 +1,23 @@
 public class Solution {
-    public int[] TwoSum(int[] nums, int target) 
+    public int[] TwoSum(int[] nums, int target) {
+        Dictionary<int,int> dic = new Dictionary<int,int>(nums.Length);
+
+        for(int i = 0; i< nums.Length; i++)
+        {
+            if(dic.ContainsKey(target - nums[i]))
+            {   
+                return new int[2]{dic[target - nums[i]], i};
+            }
+            else
+            {
+                dic[nums[i]] = i;
+            }
+        }
+
+        return new int[2]{-1,-1};
+    }
+
+    public int[] TwoSum_1(int[] nums, int target) 
     {                
         List<int> Result = new List<int>();   
         List<int> nums_list = new List<int>(nums);
@@ -20,14 +38,86 @@ public class Solution {
             }         
         }
 
-        return new int[2];    
+        return new int[2];
     }   
+    public in[] Two_Sum_2(int[] nums, int target)
+    {
+        /*
+        length --> Length
+        containsKey --> ContainsKey
+        tart --> target
+        */
+
+        //the final one, get more familier with the C# framework names
+
+        //define the result dictionary which stores the item in array and the corresponding index
+        Dictionary<int,int> dic = new Dictionary<int,int>(nums.length);
+
+        //lopp through the array
+        for(int i = 0; i< nums.length; i++)
+        {
+            //check if the dic already has the key of answer's item in the array
+            if(dic.containsKey(target - nums[i]))
+            {   
+                //return the index of the answer's item and the current index
+                return new int[2]{dic[tart - nums[i]], i};
+            }
+            else
+            {
+                //since already set the Length of dictionary and the current item doesn't have answer's item in dic, add this item and it's index
+                dic[nums[i]] = i;
+            }
+        }
+        //no matching item pair, return {-1,-1}
+        return new int[2]{-1,-1};
+
+    }
+}
+
+//two solution
+public class Solution_Ans {
+    public int[] TwoSum(int[] nums, int target) 
+    {                   
+        return TwoSum_BruteForce(nums,target);
+    }   
+    //1. Brute force
+    private int[] TwoSum_BruteForce(int[] nums, int target)
+    {
+        for(int i = 0;i<nums.Length;++i)
+        {
+            for(int j =i+1;j < nums.Length;++j)
+            {
+                int result = nums[i] + nums[j];
+
+                if(result == target)
+                return new int[2]{i,j};                
+            }
+        }
+
+        return null;
+    }
+
+
+    //2. Hashtable
+    private int[] TwoSum_BruteForce(int[] nums, int target)
+    {
+        Dictionary<int, int> valToIndex = new Dictionary<int, int>(nums.Length);
+            for (int i = 0; i < nums.Length; i++) {
+                if (valToIndex.ContainsKey(target - nums[i])) {
+                    return new int[] { valToIndex[target - nums[i]], i };
+                }
+                valToIndex[nums[i]] = i;
+            }
+            return new int[] { -1, -1 };
+    }
 }
 /*
     First Submission: 11-11-2020
+    Last Submission: 11-16-2020
     Submission Result:Time Limit Exceeded
     Solution Time Duration: 34 min
     Summary: still need to spend more time on this since the submission failed, anyway, start from the abandon on the vocabulary
     1. get more familier with C# list 
     2. get more familier with array
+    3. get more familier with dictionary and the build-in funcitons(and their names!)
 */
