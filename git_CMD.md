@@ -16,6 +16,8 @@
 #### add local git to github
 >git push
 
+#### sync data from github
+>git pull
 
 https://alligator.io/workflow/command-line-creating-files-directories/
 
