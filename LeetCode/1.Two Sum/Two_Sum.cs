@@ -1,4 +1,16 @@
 public class Solution {
+    
+    /*
+    First Submission: 11-11-2020
+    Last Submission: 11-16-2020
+    Submission Result:Time Limit Exceeded
+    Solution Time Duration: 34 min
+    Summary: still need to spend more time on this since the submission failed, anyway, start from the abandon on the vocabulary
+    1. get more familier with C# list 
+    2. get more familier with array
+    3. get more familier with dictionary and the build-in funcitons(and their names!)
+    */
+
     public int[] TwoSum(int[] nums, int target) {
         Dictionary<int,int> dic = new Dictionary<int,int>(nums.Length);
 
@@ -111,13 +123,3 @@ public class Solution_Ans {
             return new int[] { -1, -1 };
     }
 }
-/*
-    First Submission: 11-11-2020
-    Last Submission: 11-16-2020
-    Submission Result:Time Limit Exceeded
-    Solution Time Duration: 34 min
-    Summary: still need to spend more time on this since the submission failed, anyway, start from the abandon on the vocabulary
-    1. get more familier with C# list 
-    2. get more familier with array
-    3. get more familier with dictionary and the build-in funcitons(and their names!)
-*/
