@@ -3,24 +3,24 @@ Each category do 5 Easy + 20 Medium
 
 Initial List:
 
-Array
-String
-Divide Conquer
-Scan-Line algorithm
-Quick Sort
-Hash Table
-Greedy
-Recursion
-Two Pointers
-Binary Search
-Tree-Breadth First Search
-Tree-Depth First Search
-Graph-Breadth First Search
-Graph-Depth First Search
-Dynamic Programming
-Stack
-Linked List
-Trie
+Array<br/>
+String<br/>
+Divide Conquer<br/>
+Scan-Line algorithm<br/>
+Quick Sort<br/>
+Hash Table<br/>
+Greedy<br/>
+Recursion<br/>
+Two Pointers<br/>
+Binary Search<br/>
+Tree-Breadth First Search<br/>
+Tree-Depth First Search<br/>
+Graph-Breadth First Search<br/>
+Graph-Depth First Search<br/>
+Dynamic Programming<br/>
+Stack<br/>
+Linked List<br/>
+Trie<br/>
 ..
 
 
