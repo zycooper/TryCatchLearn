@@ -9,6 +9,8 @@ public class Solution {
     1. get more familier with C# list 
     2. get more familier with array
     3. get more familier with dictionary and the build-in funcitons(and their names!)
+
+    final solution TwoSum.Two_Sum_2
     */
 
     public int[] TwoSum(int[] nums, int target) {
