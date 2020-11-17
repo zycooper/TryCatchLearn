@@ -3,12 +3,12 @@ Each category do 5 Easy + 20 Medium
 
 Initial List:
 
+Hash Table<br/>
 Array<br/>
 String<br/>
 Divide Conquer<br/>
 Scan-Line algorithm<br/>
 Quick Sort<br/>
-Hash Table<br/>
 Greedy<br/>
 Recursion<br/>
 Two Pointers<br/>
