@@ -1,48 +1,58 @@
-Displaying Data and Handling Events
-Property Binding
+## Displaying Data and Handling Events
+
+-----
+### Property Binding
 bind DOM property element to the field of our property component
 One way: component -> DOM (changes in the DOM will not reflect in the component)
 
-string interpolation
+#### string interpolation
 works with text
-image
+![image](https://user-images.githubusercontent.com/26094307/93823116-e4743800-fc26-11ea-8522-2184024467fb.png)
 
-square brackets
+#### square brackets
 other
-image
+![image](https://user-images.githubusercontent.com/26094307/93823144-f1912700-fc26-11ea-9508-de770e23ae63.png)
 
-Attribute Binding
+-----
+### Attribute Binding
 HTML <> DOM
-image
+![image](https://user-images.githubusercontent.com/26094307/93823617-b8a58200-fc27-11ea-8254-56eec0fc6acf.png)
 
-Class Binding
-image
+-----
+### Class Binding
+![image](https://user-images.githubusercontent.com/26094307/94041955-8bc0ae80-fd90-11ea-8542-78d737c4aa6d.png)
 
-Style Binding
-image
+-----
+### Style Binding
+![image](https://user-images.githubusercontent.com/26094307/94042074-b579d580-fd90-11ea-87b8-63c0a785531a.png)
 
-Event Binding
-image
+-----
+### Event Binding
+![image](https://user-images.githubusercontent.com/26094307/94042380-202b1100-fd91-11ea-8fc7-67655c3a4baa.png)
 
 Event binding stop element bubbling
-image
+![image](https://user-images.githubusercontent.com/26094307/94042417-2c16d300-fd91-11ea-8271-e53ce6e5fc85.png)
 
-Event filtering
-image
+-----
+### Event filtering
+![image](https://user-images.githubusercontent.com/26094307/106089880-81237680-60ee-11eb-9a50-4a12721833a7.png)
 
-image
+![image](https://user-images.githubusercontent.com/26094307/94042609-6d0ee780-fd91-11ea-9d88-dd9db8b3e226.png)
 
-Template Variable
-image
+-----
+### Template Variable
+![image](https://user-images.githubusercontent.com/26094307/94043039-ead2f300-fd91-11ea-9d80-1882528429b2.png)
 
-Two-way binding
+-----
+### Two-way binding
 Use ngModel for two way binding
-image
+![image](https://user-images.githubusercontent.com/26094307/94043458-94b27f80-fd92-11ea-8ca2-d3220e8addbd.png)
 
-Pipe
-Built-in pipe
-image
+-----
+### Pipe
+#### Built-in pipe
+![image](https://user-images.githubusercontent.com/26094307/94043816-fecb2480-fd92-11ea-8acc-0b099ea9acb4.png)
 
-Customize pipe
+#### Customize pipe
 register your pipe in ngModule same as component first then use
-image
+![image](https://user-images.githubusercontent.com/26094307/94044600-fde6c280-fd93-11ea-8af4-f902780865d5.png)
