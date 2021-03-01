@@ -1,0 +1,20 @@
+## Angular Fundamentals
+
+-----
+**Component** :  
+Base unit. Encapsulates Data, HTML Template and Logic. 
+Each angular project has at least one component: app_component or root_component
+**Modules** : 
+Container of several related component. Each angular project has at least one module: app module
+
+-----
+### Components
+-----
+### Directives
+-----
+### Services
+don't have decorator for services, only plain ts
+-----
+Component shouldn't contain any logic other than presentation logic
+
+When you register an service in provider, angular will create only one instance for this ---Singleton
