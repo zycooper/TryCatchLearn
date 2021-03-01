@@ -1,0 +1,48 @@
+Displaying Data and Handling Events
+Property Binding
+bind DOM property element to the field of our property component
+One way: component -> DOM (changes in the DOM will not reflect in the component)
+
+string interpolation
+works with text
+image
+
+square brackets
+other
+image
+
+Attribute Binding
+HTML <> DOM
+image
+
+Class Binding
+image
+
+Style Binding
+image
+
+Event Binding
+image
+
+Event binding stop element bubbling
+image
+
+Event filtering
+image
+
+image
+
+Template Variable
+image
+
+Two-way binding
+Use ngModel for two way binding
+image
+
+Pipe
+Built-in pipe
+image
+
+Customize pipe
+register your pipe in ngModule same as component first then use
+image
