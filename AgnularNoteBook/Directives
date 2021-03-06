@@ -1,0 +1,57 @@
+## Directives:
+
+-----
+1. Modify DOM's structure
+2. Modify DOM Elements' attributes
+
+-----
+### *ngIf - For large element trees
+in if condition, if true the element (like div) will show up in the DOM if not the element will be removed from the DOM
+ngif may have a negative impact on the performance, so if you use button to show or hide something, use [hidden] instead.
+//[hidden] render everything in the DOM just add [hidden] attribute.
+
+ngIf
+<img src="https://user-images.githubusercontent.com/26094307/93777671-b244e500-fbea-11ea-8664-62d24e2d36e0.png" height="150">
+[hidden]
+![image](https://user-images.githubusercontent.com/26094307/93778323-6181bc00-fbeb-11ea-8584-371ce05bbb77.png)
+
+-----
+### [ngswitch]
+
+![image](https://user-images.githubusercontent.com/26094307/93779833-ffc25180-fbec-11ea-9cfd-c06249758e0d.png)
+
+-----
+### *ngFor
+![image](https://user-images.githubusercontent.com/26094307/93780107-59c31700-fbed-11ea-90db-d5bdb5a161b8.png)
+
+-----
+#### detection
+If an existing object changed, Angular will refresh the DOM automatically
+
+----
+#### trackby
+if you work with a large complex list, use trackby, this will track one item in object only re-render the changed thing, otherwise everytime angular will re-render the whole list. 
+![image](https://user-images.githubusercontent.com/26094307/93791140-79603c80-fbf9-11ea-8ad6-9285c014921e.png)
+
+![image](https://user-images.githubusercontent.com/26094307/93791109-6f3e3e00-fbf9-11ea-8486-4c7516a6f89a.png)
+
+![image](https://user-images.githubusercontent.com/26094307/93791089-65b4d600-fbf9-11ea-973b-932266e2fdee.png)
+
+-----
+### ngClass
+![image](https://user-images.githubusercontent.com/26094307/93818362-e1c21480-fc1f-11ea-97e7-3b96e18f8100.png)
+
+-----
+### ngStyle
+![image](https://user-images.githubusercontent.com/26094307/93818535-1b931b00-fc20-11ea-88aa-c3fa196e62a6.png)
+
+-----
+### Safe Traversal Operator
+Place ? before object to avoid null value exception
+![image](https://user-images.githubusercontent.com/26094307/93818932-a542e880-fc20-11ea-8c3f-204b788f047e.png)
+
+-----
+### Customize directive
+If you use single property, you can always use selector as the input property name to simplify the code.
+![image](https://user-images.githubusercontent.com/26094307/93819762-c5bf7280-fc21-11ea-8b54-d2006da2d742.png)
+
