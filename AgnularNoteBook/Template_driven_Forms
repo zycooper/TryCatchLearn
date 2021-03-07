@@ -1,0 +1,54 @@
+## Template-driven Forms
+
+-----
+### Types of Forms
+![image](https://user-images.githubusercontent.com/26094307/94189825-dfa2c480-fe70-11ea-8786-01e40e896dfe.png)
+-----
+![image](https://user-images.githubusercontent.com/26094307/94189873-edf0e080-fe70-11ea-948c-fc99d2046f2d.png)
+-----
+![image](https://user-images.githubusercontent.com/26094307/94189904-fa753900-fe70-11ea-9be2-d18da5310c96.png)
+-----
+![image](https://user-images.githubusercontent.com/26094307/94189981-1973cb00-fe71-11ea-890e-62236d8b47b0.png)
+-----
+![image](https://user-images.githubusercontent.com/26094307/94190047-2db7c800-fe71-11ea-90ad-c0c27c51c076.png)
+
+Template-drive: use default one
+React: hand write code in the component
+-----
+### ngModel
+![image](https://user-images.githubusercontent.com/26094307/94190522-d6662780-fe71-11ea-8e1f-5d08002b1f48.png)
+Creates a FormControl instance from a domain model and binds it to a form control element.
+-----
+### Specific Validation Errors
+![image](https://user-images.githubusercontent.com/26094307/94190984-7623b580-fe72-11ea-8f6d-cfa110b717f6.png)
+### Styling Invalid Input Fields
+### Cleaner Templates
+
+-----
+### ngForm && ngModelGroup
+If use form without the not part in pic below, angular will automatically apply the ngform directive for <form>
+![image](https://user-images.githubusercontent.com/26094307/94201699-faca0000-fe81-11ea-8017-99b51c31ec35.png)
+
+![image](https://user-images.githubusercontent.com/26094307/94201451-9f980d80-fe81-11ea-8aff-dfff75664580.png)
+
+nest several ngForm
+Simple ngForm:
+![image](https://user-images.githubusercontent.com/26094307/94201079-14b71300-fe81-11ea-812c-c4f6a8e5fd59.png)
+
+![image](https://user-images.githubusercontent.com/26094307/94200887-c73aa600-fe80-11ea-93ac-abda9f501146.png)
+
+with ngModelGroup:
+![image](https://user-images.githubusercontent.com/26094307/94201042-036e0680-fe81-11ea-9e86-4cd1388dd224.png)
+
+![image](https://user-images.githubusercontent.com/26094307/94200922-d9b4df80-fe80-11ea-82c0-e4a28974fe06.png)
+
+![image](https://user-images.githubusercontent.com/26094307/94202283-08cc5080-fe83-11ea-8f18-1a67740658b4.png)
+
+ngForm vs ngModelGroup
+ngModelGroup is a group of ngModel, could be under ngForm
+ngForm has submit event
+-----
+### ngValue
+used to bind complex object instead of string(value binding is string)
+![image](https://user-images.githubusercontent.com/26094307/94202998-51d0d480-fe84-11ea-8d15-64c82e8ee7e2.png)
+![image](https://user-images.githubusercontent.com/26094307/94203017-5d240000-fe84-11ea-9f69-a12af0f90ef3.png)
