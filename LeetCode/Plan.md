@@ -1,8 +1,8 @@
 <--- Edit on 03/09/2021 --->
-New Plan
-Total 396 Qs.
-6 Qs every day and finish in 10 wks(by 05/08/2021).
-![image](https://user-images.githubusercontent.com/26094307/110541398-4ea56a00-80ed-11eb-82c7-3b3e8058fd53.png)
+<br>New Plan
+<br>Total 396 Qs.
+<br>6 Qs every day and finish in 10 wks(by 05/08/2021).
+<br>![image](https://user-images.githubusercontent.com/26094307/110541398-4ea56a00-80ed-11eb-82c7-3b3e8058fd53.png)
 
 <--- Created on 03/09/2021 --->
 
