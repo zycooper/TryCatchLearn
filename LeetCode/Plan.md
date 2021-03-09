@@ -1,3 +1,9 @@
+<--- Edit on 03/09/2021 --->
+New Plan
+![image](https://user-images.githubusercontent.com/26094307/110541398-4ea56a00-80ed-11eb-82c7-3b3e8058fd53.png)
+
+<--- Created on 03/09/2021 --->
+
 Base on problem category
 Each category do 5 Easy + 20 Medium
 
@@ -23,5 +29,3 @@ Linked List<br/>
 Trie<br/>
 ..
 
-
-created on 11/16/2020
