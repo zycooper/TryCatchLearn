@@ -75,7 +75,7 @@
 |068|[Text Justification](https://leetcode.com/problems/text-justification/description/)|[C#](./LeetCode/String/68.Text_Justification.cs)|Hard|String||
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[C#](./LeetCode/Math/69.Sqrt(x).cs)|Easy|Math||
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[C#](./LeetCode/Dynamic_Programming/70.Climbing_Stairs.cs)|Easy|Dynamic Programming||
-|071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[C#](./LeetCode/Stack & Priority Queue/71.Simplify_Path.cs)|Medium|Stack & Priority Queue||
+|071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[C#](./LeetCode/Stack&PriorityQueue/71.Simplify_Path.cs)|Medium|Stack & Priority_Queue||
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/)|[C#](./LeetCode/Dynamic_Programming/72.Edit_Distance.cs)|Hard|Dynamic Programming||
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C#](./LeetCode/Matrix/73.Set_Matrix_Zeroes.cs)|Medium|Matrix||
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C#](./LeetCode/Matrix/74.Search_a_2D_Matrix.cs)|Medium|Matrix||
@@ -89,7 +89,7 @@
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[C#](./LeetCode/Binary_Search/81.Search_in_Rotated_Sorted_Array_II.cs)|Medium|Binary Search||
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[C#](./LeetCode/LinkedList/82.Remove_Duplicates_from_Sorted_List_II.cs)|Medium|LinkedList||
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[C#](./LeetCode/LinkedList/83.Remove_Duplicates_from_Sorted_List.cs)|Easy|LinkedList||
-|084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[C#](./LeetCode/Stack & Priority Queue/84.Largest_Rectangle_in_Histogram.cs)|Hard|Stack & Priority Queue||
+|084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[C#](./LeetCode/Stack&PriorityQueue/84.Largest_Rectangle_in_Histogram.cs)|Hard|Stack & Priority_Queue||
 |085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)|[C#](./LeetCode/Dynamic_Programming/85.Maximal_Rectangle.cs)|Hard|Dynamic Programming||
 |086|[Partition List](https://leetcode.com/problems/partition-list/description/)|[C#](./LeetCode/LinkedList/86.Partition_List.cs)|Medium|LinkedList||
 |087|[Scramble String](https://leetcode.com/problems/scramble-string/description/)|[C#](./LeetCode/String/87.Scramble_String.cs)|Hard|String||
@@ -155,14 +155,14 @@
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)|[C#](./LeetCode/LinkedList/147.Insertion_Sort_List.cs)|Medium|LinkedList||
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/)|[C#](./LeetCode/LinkedList/148.Sort_List.cs)|Medium|LinkedList||
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)|[C#](./LeetCode/Graph/149.Max_Points_on_a_Line.cs)|Hard|Graph||
-|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[C#](./LeetCode/Stack & Priority Queue/150.Evaluate_Reverse_Polish_Notation.cs)|Medium|Stack & Priority Queue||
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[C#](./LeetCode/Stack&PriorityQueue/150.Evaluate_Reverse_Polish_Notation.cs)|Medium|Stack & Priority_Queue||
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|[C#](./LeetCode/String/151.Reverse_Words_in_a_String.cs)|Medium|String||
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C#](./LeetCode/Array/152.Maximum_Product_Subarray.cs)|Medium|Array||
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[C#](./LeetCode/Array/153.Find_Minimum_in_Rotated_Sorted_Array.cs)|Medium|Array||
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[C#](./LeetCode/Binary_Search/153.Find_Minimum_in_Rotated_Sorted_Array.cs)|Medium|Binary Search||
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|[C#](./LeetCode/Array/154.Find_Minimum_in_Rotated_Sorted_Array_II.cs)|Hard|Array||
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|[C#](./LeetCode/Binary_Search/154.Find_Minimum_in_Rotated_Sorted_Array_II.cs)|Hard|Binary Search||
-|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[C#](./LeetCode/Stack & Priority Queue/155.Min_Stack.cs)|Easy|Stack & Priority Queue||
+|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[C#](./LeetCode/Stack&PriorityQueue/155.Min_Stack.cs)|Easy|Stack & Priority_Queue||
 |156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/description/)|[C#](./LeetCode/Tree/156.Binary_Tree_Upside_Down.cs)|Medium|Tree||
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/)|[C#](./LeetCode/String/157.Read_N_Characters_Given_Read4.cs)|Easy|String||
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/)|[C#](./LeetCode/String/158.Read_N_Characters_Given_Read4_II_Call_multiple_times.cs)|Hard|String||
@@ -223,24 +223,24 @@
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/)|[C#](./LeetCode/Trie/212.Word_Search_II.cs)|Hard|Trie||
 |213|[House Robber II]()|[C#](./LeetCode/Dynamic_Programming/213.House_Robber_II.cs)|Medium|Dynamic Programming||
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)|[C#](./LeetCode/String/214.Shortest_Palindrome.cs)|Hard|String||
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[C#](./LeetCode/Stack & Priority Queue/215.Kth_Largest_Element_in_an_Array.cs)|Medium|Stack & Priority Queue||
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[C#](./LeetCode/Stack&PriorityQueue/215.Kth_Largest_Element_in_an_Array.cs)|Medium|Stack & Priority_Queue||
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)|[C#](./LeetCode/Backtracking/216.Combination_Sum_III.cs)|Medium|Backtracking||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[C#](./LeetCode/Array/217.Contains_Duplicate.cs)|Easy|Array||
-|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)|[C#](./LeetCode/Stack & Priority Queue/218.The_Skyline_Problem.cs)|Hard|Stack & Priority Queue||
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)|[C#](./LeetCode/Stack&PriorityQueue/218.The_Skyline_Problem.cs)|Hard|Stack & Priority_Queue||
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[C#](./LeetCode/Array/219.Contains_Duplicate_II.cs)|Easy|Array||
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[C#](./LeetCode/Array/220.Contains_Duplicate_III.cs)|Medium|Array||
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)|[C#](./LeetCode/Dynamic_Programming/221.Maximal_Square.cs)|Medium|Dynamic Programming||
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)|[C#](./LeetCode/Tree/222.Count_Complete_Tree_Nodes.cs)|Medium|Tree||
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/description/)|[C#](./LeetCode/Graph/223.Rectangle_Area.cs)|Medium|Graph||
-|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/)|[C#](./LeetCode/Stack & Priority Queue/224.Basic_Calculator.cs)|Hard|Stack & Priority Queue||
-|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|[C#](./LeetCode/Stack & Priority Queue/225.Implement_Stack_using_Queues.cs)|Easy|Stack & Priority Queue||
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/)|[C#](./LeetCode/Stack&PriorityQueue/224.Basic_Calculator.cs)|Hard|Stack & Priority_Queue||
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|[C#](./LeetCode/Stack&PriorityQueue/225.Implement_Stack_using_Queues.cs)|Easy|Stack & Priority_Queue||
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[C#](./LeetCode/Tree/226.Invert_Binary_Tree.cs)|Easy|Tree||
-|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)|[C#](./LeetCode/Stack & Priority Queue/227.Basic_Calculator_II.cs)|Medium|Stack & Priority Queue||
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)|[C#](./LeetCode/Stack&PriorityQueue/227.Basic_Calculator_II.cs)|Medium|Stack & Priority_Queue||
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[C#](./LeetCode/Array/228.Summary_Ranges.cs)|Easy|Array||
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)|[C#](./LeetCode/Array/229.Majority_Element_II.cs)|Medium|Array||
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[C#](./LeetCode/Tree/230.Kth_Smallest_Element_in_a_BST.cs)|Medium|Tree||
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[C#](./LeetCode/Math/231.Power_of_Two.cs)|Easy|Math||
-|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)|[C#](./LeetCode/Stack & Priority Queue/232.Implement_Queue_using_Stacks.cs)|Easy|Stack & Priority Queue||
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)|[C#](./LeetCode/Stack&PriorityQueue/232.Implement_Queue_using_Stacks.cs)|Easy|Stack & Priority_Queue||
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/)|[C#](./LeetCode/Math/233.Number_of_Digit_One.cs)|Hard|Math||
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|[C#](./LeetCode/LinkedList/234.Palindrome_Linked_List.cs)|Easy|LinkedList||
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[C#](./LeetCode/Tree/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cs)|Easy|Tree||
@@ -323,7 +323,7 @@
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)|[C#](./LeetCode/Graph/310.Minimum_Height_Trees.cs)|Medium|Graph||
 |311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/)|[C#](./LeetCode/Matrix/311.Sparse_Matrix_Multiplication.cs)|Medium|Matrix||
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)|[C#](./LeetCode/Dynamic_Programming/312.Burst_Balloons.cs)|Hard|Dynamic Programming||
-|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/)|[C#](./LeetCode/Stack & Priority Queue/313.Super_Ugly_Number.cs)|Medium|Stack & Priority Queue||
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/)|[C#](./LeetCode/Stack&PriorityQueue/313.Super_Ugly_Number.cs)|Medium|Stack & Priority_Queue||
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/)|[C#](./LeetCode/Tree/314.Binary_Tree_Vertical_Order_Traversal.cs)|Medium|Tree||
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[C#](./LeetCode/Array/315.Count_of_Smaller_Numbers_After_Self.cs)|Hard|Array||
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[C#](./LeetCode/Binary_Search/315.Count_of_Smaller_Numbers_After_Self.cs)|Hard|Binary Search||
@@ -343,7 +343,7 @@
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[C#](./LeetCode/Matrix/329.Longest_Increasing_Path_in_a_Matrix.cs)|Hard|Matrix||
 |330|[Patching Array](https://leetcode.com/problems/patching-array/description/)|[C#](./LeetCode/Array/330.Patching_Array.cs)|Hard|Array||
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)|[C#](./LeetCode/Tree/331.Verify_Preorder_Serialization_of_a_Binary_Tree.cs)|Medium|Tree||
-|332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)|[C#](./LeetCode/Stack & Priority Queue/332.Reconstruct_Itinerary.cs)|Medium|Stack & Priority Queue||
+|332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)|[C#](./LeetCode/Stack&PriorityQueue/332.Reconstruct_Itinerary.cs)|Medium|Stack & Priority_Queue||
 |333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/description/)|[C#](./LeetCode/Tree/333.Largest_BST_Subtree.cs)|Medium|Tree||
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[C#](./LeetCode/Array/334.Increasing_Triplet_Subsequence.cs)|Medium|Array||
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/description/)|[C#](./LeetCode/Graph/335.Self_Crossing.cs)|Hard|Graph||
@@ -352,13 +352,13 @@
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[C#](./LeetCode/Bit_Manipulation/338.Counting_Bits.cs)|Medium|Bit Manipulation||
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/)|[C#](./LeetCode/DFS&BFS/339.Nested_List_Weight_Sum.cs)|Medium|DFS&BFS||
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/)|[C#](./LeetCode/String/340.Longest_Substring_with_At_Most_K_Distinct_Characters.cs)|Medium|String||
-|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C#](./LeetCode/Stack & Priority Queue/341.Flatten_Nested_List_Iterator.cs)|Medium|Stack & Priority Queue||
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C#](./LeetCode/Stack&PriorityQueue/341.Flatten_Nested_List_Iterator.cs)|Medium|Stack & Priority_Queue||
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)|[C#](./LeetCode/Math/342.Power_of_Four.cs)|Easy|Math||
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|[C#](./LeetCode/Math/343.Integer_Break.cs)|Medium|Math||
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[C#](./LeetCode/String/344.Reverse_String.cs)|Easy|String||
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[C#](./LeetCode/String/345.Reverse_Vowels_of_a_String.cs)|Easy|String||
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/)|[C#](./LeetCode/Design/346.Moving_Average_from_Data_Stream.cs)|Easy|Design||
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[C#](./LeetCode/Stack & Priority Queue/347.Top_K_Frequent_Elements.cs)|Medium|Stack & Priority Queue||
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|[C#](./LeetCode/Stack&PriorityQueue/347.Top_K_Frequent_Elements.cs)|Medium|Stack & Priority_Queue||
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/)|[C#](./LeetCode/Design/348.Design_Tic-Tac-Toe.cs)|Medium|Design||
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[C#](./LeetCode/Array/349.Intersection_of_Two_Arrays.cs)|Easy|Array||
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[C#](./LeetCode/Binary_Search/349.Intersection_of_Two_Arrays.cs)|Easy|Binary Search||
@@ -387,7 +387,7 @@
 |370|[Range Addition](https://leetcode.com/problems/range-addition/description/)|[C#](./LeetCode/Matrix/370.Range_Addition.cs)|Medium|Matrix||
 |371|[Sum of Two Integers emove Element](https://leetcode.com/problems/sum-of-two-integers/description/)|[C#](./LeetCode/Bit_Manipulation/371.Sum_of_Two_Integers_emove_Element.cs)|Medium|Bit Manipulation||
 |372|[Super Pow](https://leetcode.com/problems/super-pow/description/)|[C#](./LeetCode/Math/372.Super_Pow.cs)|Medium|Math||
-|373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)|[C#](./LeetCode/Stack & Priority Queue/373.Find_K_Pairs_with_Smallest_Sums.cs)|Medium|Stack & Priority Queue||
+|373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)|[C#](./LeetCode/Stack&PriorityQueue/373.Find_K_Pairs_with_Smallest_Sums.cs)|Medium|Stack & Priority_Queue||
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C#](./LeetCode/Array/374.Guess_Number_Higher_or_Lower.cs)|Easy|Array||
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C#](./LeetCode/Binary_Search/374.Guess_Number_Higher_or_Lower.cs)|Easy|Binary Search||
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/)|[C#](./LeetCode/Dynamic_Programming/375.Guess_Number_Higher_or_Lower_II.cs)|Medium|Dynamic Programming||
@@ -400,16 +400,16 @@
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[C#](./LeetCode/Random/382.Linked_List_Random_Node.cs)|Medium|Random||
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|[C#](./LeetCode/String/383.Ransom_Note.cs)|Easy|String||
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[C#](./LeetCode/Random/384.Shuffle_an_Array.cs)|Medium|Random||
-|385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/)|[C#](./LeetCode/Stack & Priority Queue/385.Mini_Parser.cs)|Medium|Stack & Priority Queue||
+|385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/)|[C#](./LeetCode/Stack&PriorityQueue/385.Mini_Parser.cs)|Medium|Stack & Priority_Queue||
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)|[C#](./LeetCode/Math/386.Lexicographical_Numbers.cs)|Medium|Math||
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[C#](./LeetCode/String/387.First_Unique_Character_in_a_String.cs)|Easy|String||
-|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/)|[C#](./LeetCode/Stack & Priority Queue/388.Longest_Absolute_File_Path.cs)|Medium|Stack & Priority Queue||
+|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/)|[C#](./LeetCode/Stack&PriorityQueue/388.Longest_Absolute_File_Path.cs)|Medium|Stack & Priority_Queue||
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/)|[C#](./LeetCode/Bit_Manipulation/389.Find_the_Difference.cs)|Easy|Bit Manipulation||
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/)|[C#](./LeetCode/Math/390.Elimination_Game.cs)|Medium|Math||
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/)|[C#](./LeetCode/Graph/391.Perfect_Rectangle.cs)|Hard|Graph||
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)|[C#](./LeetCode/String/392.Is_Subsequence.cs)|Easy|String||
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/)|[C#](./LeetCode/Bit_Manipulation/393.UTF-8_Validation.cs)|Medium|Bit Manipulation||
-|394|[Decode String](https://leetcode.com/problems/decode-string/)|[C#](./LeetCode/Stack & Priority Queue/394.Decode_String.cs)|Medium|Stack & Priority Queue||
+|394|[Decode String](https://leetcode.com/problems/decode-string/)|[C#](./LeetCode/Stack&PriorityQueue/394.Decode_String.cs)|Medium|Stack & Priority_Queue||
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)|[C#](./LeetCode/String/395.Longest_Substring_with_At_Least_K_Repeating_Characters.cs)|Medium|String||
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/description/)|[C#](./LeetCode/Math/396.Rotate_Function.cs)|Medium|Math||
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)|[C#](./LeetCode/Math/397.Integer_Replacement.cs)|Medium|Math||
