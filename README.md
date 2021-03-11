@@ -1,24 +1,73 @@
 ## LeetCode Progression
 
-
-2.String
-3.Math
-4.Tree
-5.Backtracking
-6.Dynamic_Programming
-7.LinkedList
-8.Binary_Search
-9.Matrix
-10.DFS_BFS
-11.Stack_PriorityQueue
-12.Bit_Manipulation
-13.Topological_Sort
-14.Random
-15.Graph
-16.Union_Find
-17.Trie
-18.Design
-
 ### 1.Array
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 2.String
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 3.Math
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 4.Tree
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 5.Backtracking
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 6.Dynamic_Programming
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 7.LinkedList
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 8.Binary_Search
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 9.Matrix
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 10.DFS_BFS
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 11.Stack_PriorityQueue
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 12.Bit_Manipulation
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 13.Topological_Sort
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 14.Random
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 15.Graph
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 16.Union_Find
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 17.Trie
+| # | Title | Solution | Difficulty | LastUpdate |
+|---| ----- | -------- | ---------- | ---------- |
+
+### 18.Design
 | # | Title | Solution | Difficulty | LastUpdate |
 |---| ----- | -------- | ---------- | ---------- |
