@@ -1,4 +1,4 @@
-### LeetCode Progression
+## LeetCode Progression
 
 
 2.String
@@ -19,6 +19,6 @@
 17.Trie
 18.Design
 
-## 1.Array
+### 1.Array
 | # | Title | Solution | Difficulty | LastUpdate |
 |---| ----- | -------- | ---------- | ---------- |
