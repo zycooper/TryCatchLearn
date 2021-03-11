@@ -11,7 +11,7 @@
 ### 3.Math
 | # | Title | Solution | Difficulty | LastUpdate |
 |---| ----- | -------- | ---------- | ---------- |
-
+|001|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./LeetCode/3.Math/1.TwoSum.cs)|Easy|
 ### 4.Tree
 | # | Title | Solution | Difficulty | LastUpdate |
 |---| ----- | -------- | ---------- | ---------- |
