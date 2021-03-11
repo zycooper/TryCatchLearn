@@ -1,6 +1,6 @@
 ### LeetCode Progression
 
-1.Array
+
 2.String
 3.Math
 4.Tree
@@ -19,6 +19,6 @@
 17.Trie
 18.Design
 
-
+##1.Array
 | # | Title | Solution | Difficulty | LastUpdate |
 |---| ----- | -------- | ---------- | ---------- |
