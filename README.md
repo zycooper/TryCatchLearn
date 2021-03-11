@@ -1,4 +1,4 @@
-## LeetCode Progression
+## LeetCode Progress
 
 | # | Title | Solution | Difficulty | Category | Submit |
 |---| ----- | -------- | ---------- | -------- | ---------- |
