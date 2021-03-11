@@ -1,8 +1,8 @@
 ## LeetCode Progression
 
-| # | Title | Solution | Difficulty | Category | LastUpdate |
+| # | Title | Solution | Difficulty | Category | Submit |
 |---| ----- | -------- | ---------- | -------- | ---------- |
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[C#](./LeetCode/Math/1.Two_Sum.cs)|Easy|Math||
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[C#](./LeetCode/Math/1.Two_Sum.cs)|Easy|Math|2020-11-16|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[C#](./LeetCode/LinkedList/2.Add_Two_Numbers.cs)|Medium|LinkedList||
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[C#](./LeetCode/String/3.Longest_Substring_Without_Repeating_Characters.cs)|Medium|String||
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[C#](./LeetCode/Array/4.Median_of_Two_Sorted_Arrays.cs)|Hard|Array||
