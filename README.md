@@ -18,7 +18,7 @@
 ### 16.Union_Find
 ### 17.Trie
 ### 18.Design
-
-| # | Title | Solution | Difficulty | LastUpdate |
-|---| ----- | -------- | ---------- | ---------- |
 |001|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./LeetCode/3.Math/1.Two_Sum.cs)|Easy|
+| # | Title | Solution | Difficulty | Category | LastUpdate |
+|---| ----- | -------- | ---------- | -------- | ---------- |
+|027|[Remove Element](https://leetcode.com/problems/remove-element/)|[C#](./LeetCode/.cs)|Easy|Array||
