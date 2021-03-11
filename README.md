@@ -416,5 +416,4 @@
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C#](./LeetCode/Random/398.Random_Pick_Index.cs)|Medium|Random||
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)|[C#](./LeetCode/Graph/399.Evaluate_Division.cs)|Medium|Graph||
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/)|[C#](./LeetCode/Math/400.Nth_Digit.cs)|Medium|Math||
-![image](https://user-images.githubusercontent.com/26094307/110817692-25521e80-8252-11eb-852a-3e9628d65fd9.png)
 
