@@ -1,0 +1,96 @@
+## Routing and Navigation
+
+-----
+### Routing in a Nutshell
+![image](https://user-images.githubusercontent.com/26094307/94937253-f65ea200-0494-11eb-99e1-1f1c45b10764.png)
+
+-----
+### Step 1 Configuring Routes
+![image](https://user-images.githubusercontent.com/26094307/97314134-64e51480-1835-11eb-997b-de0c858bfb91.png)
+
+ _**_ catches any url in the browser address bar - could use for any not found pages
+
+![image](https://user-images.githubusercontent.com/26094307/97314459-be4d4380-1835-11eb-98b4-be10f4721c0c.png)
+
+![image](https://user-images.githubusercontent.com/26094307/97314740-01a7b200-1836-11eb-9863-2eb11fdc6446.png)
+
+_orders_ of the routing array matters, the one on the top will overwrite the one below with the similar url patterns.
+
+The one 'followers/:username' won't show cause the one 'followers' above will cover it
+
+
+![image](https://user-images.githubusercontent.com/26094307/104745107-53fcbe80-5713-11eb-8752-7b3c718fe03f.png)
+
+the "\*\*" is a white page and it will catch all the not found links, and the order of all these routes matters, if the "\*\*" is on top of others, the not found page will show up consistently
+
+-----
+### Step 2 Add RouterOutlet
+
+Add a router outlet other wise you will see
+![image](https://user-images.githubusercontent.com/26094307/97315467-c2c62c00-1836-11eb-948e-cc0f0c0487a3.png)
+
+The *router outlet* is where the Angular is going to display the components that associate with the current routes.
+
+![image](https://user-images.githubusercontent.com/26094307/97315791-10429900-1837-11eb-87d1-f58e500ca3f8.png)
+
+-----
+### Step 3 RouterLink
+
+avoid using attribute '#' link in <a> tag, it re-downloads the page and initializes Angular app, the whole page will be blank a sec and a delay.
+
+![image](https://user-images.githubusercontent.com/26094307/97316789-243aca80-1838-11eb-95e1-9f73a8a0ed1b.png)
+
+From 
+![image](https://user-images.githubusercontent.com/26094307/97316618-f190d200-1837-11eb-86e5-c10949facac3.png)
+To
+![image](https://user-images.githubusercontent.com/26094307/97316638-f81f4980-1837-11eb-81f6-1db9d044a2f6.png)
+To (dynamic render)
+![image](https://user-images.githubusercontent.com/26094307/97316886-42a0c600-1838-11eb-9df4-836c433735db.png)
+
+![image](https://user-images.githubusercontent.com/26094307/97317036-65cb7580-1838-11eb-920c-9ab4bba8b5ee.png)
+
+-----
+### RouterLinkActive
+![image](https://user-images.githubusercontent.com/26094307/97319325-c52a8500-183a-11eb-80ca-ecbcb251ed86.png)
+
+-----
+### Getting the Route Parameters
+![image](https://user-images.githubusercontent.com/26094307/97326106-a7145300-1841-11eb-84ff-4b08248d0258.png)
+
+#### Route Parameters Are Observables
+
+#### Routes with Multiple Parameters
+![image](https://user-images.githubusercontent.com/26094307/97325932-7c29ff00-1841-11eb-8222-c8fd4882323b.png)
+
+-----
+### Query Parameters
+
+-----
+### Subscribing to Multiple Observables
+![image](https://user-images.githubusercontent.com/26094307/97334966-4d188b00-184b-11eb-9649-2935300415b5.png)
+
+-----
+### The SwitchMap Operator
+More elegant way to right the nest subscribe:
+
+Different return type when use different method inside this.http.get(url)
+With map
+![image](https://user-images.githubusercontent.com/26094307/105646043-3215e100-5e63-11eb-8983-f3db999b6450.png)
+Without map
+![image](https://user-images.githubusercontent.com/26094307/105646058-4659de00-5e63-11eb-9ea0-c24357c68407.png)
+Because the json inside the map is any type, so with the map, it returns Observable<any> 
+
+From nest subscribe to map
+nest subscribe
+![image](https://user-images.githubusercontent.com/26094307/105646149-e7489900-5e63-11eb-99e7-89a86006e26d.png)
+map
+![image](https://user-images.githubusercontent.com/26094307/105646203-460e1280-5e64-11eb-817b-6903b42c5cb4.png)
+
+
+
+-----
+### Programmatic Navigation
+![image](https://user-images.githubusercontent.com/26094307/97359521-df7c5700-186a-11eb-8709-e2be5f0b50d6.png)
+
+![image](https://user-images.githubusercontent.com/26094307/97359537-e73bfb80-186a-11eb-9e05-9458426b4e3b.png)
+
