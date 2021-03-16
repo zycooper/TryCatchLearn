@@ -1,0 +1,69 @@
+### Authentication and Authorization
+
+#### JSOM Web Tokens (JWT)
+jwt.io
+![image](https://user-images.githubusercontent.com/26094307/97445421-3d587f80-18fb-11eb-9c61-eda3563735b0.png)
+Red: header
+Purple: payload
+Blue: digital signature
+
+#### 
+![image](https://user-images.githubusercontent.com/26094307/97446086-fdde6300-18fb-11eb-86f5-acf44fccef63.png)
+
+#### Log in
+![image](https://user-images.githubusercontent.com/26094307/105737260-5cb37880-5efb-11eb-85c1-550cf51e25c9.png)
+
+![image](https://user-images.githubusercontent.com/26094307/105737346-7359cf80-5efb-11eb-8add-6fc8ecbfbb11.png)
+
+#### Log out
+![image](https://user-images.githubusercontent.com/26094307/105737453-94222500-5efb-11eb-90cf-b6b90380e9fc.png)
+
+![image](https://user-images.githubusercontent.com/26094307/105737493-a1d7aa80-5efb-11eb-98fa-70043cfd2042.png)
+
+####  Showing or hiding elements
+![image](https://user-images.githubusercontent.com/26094307/105737964-25919700-5efc-11eb-8005-f62f0d75e16f.png)
+More simple way to set the auth.service.ts:
+![image](https://user-images.githubusercontent.com/26094307/105738375-946ef000-5efc-11eb-97ba-c7ee507097f5.png)
+![image](https://user-images.githubusercontent.com/26094307/105738392-99cc3a80-5efc-11eb-826b-1bf00f49c619.png)
+![image](https://user-images.githubusercontent.com/26094307/105738434-a5b7fc80-5efc-11eb-8aba-227b3f09c105.png)
+
+##### Next level show or hide elements
+Base on user's level to render different elements
+![image](https://user-images.githubusercontent.com/26094307/105738909-2840bc00-5efd-11eb-9b4f-7e1bbed84048.png)
+![image](https://user-images.githubusercontent.com/26094307/105738952-3393e780-5efd-11eb-9411-681608c6fff6.png)
+
+#### CanActive Interface(for auth-guard)
+![image](https://user-images.githubusercontent.com/26094307/105740113-7904e480-5efe-11eb-9a73-633c73d3fb39.png)
+
+![image](https://user-images.githubusercontent.com/26094307/105739683-fe3bc980-5efd-11eb-9314-cc4c7c63e01f.png)
+
+Add canActivate function in auth-gurard service and implement it, then add the canActivate into routerModule forRoot function which path/component you want to add
+
+#### re-direct user after logging in
+![image](https://user-images.githubusercontent.com/26094307/105740889-414a6c80-5eff-11eb-9908-a1fe3310e720.png)
+add reference
+![image](https://user-images.githubusercontent.com/26094307/105740980-63dc8580-5eff-11eb-84fd-5abcc16dfb4a.png)
+
+![image](https://user-images.githubusercontent.com/26094307/105740746-1c55f980-5eff-11eb-87a2-9a5da8d0b543.png)
+test:
+With return-url
+![image](https://user-images.githubusercontent.com/26094307/105741317-c3d32c00-5eff-11eb-931e-410b07537e41.png)
+Without return-url
+![image](https://user-images.githubusercontent.com/26094307/105741359-cf265780-5eff-11eb-92bd-123609cff0c9.png)
+
+#### Protect routes based on user's role
+Basically add another auth-guard to check if the role of this user is the role we want to restrict, then add this auth-guard in the RouterModule.forRoot and the path/component
+![image](https://user-images.githubusercontent.com/26094307/105742086-af436380-5f00-11eb-8eb1-82c73520ead1.png)
+![image](https://user-images.githubusercontent.com/26094307/105741812-5b387f00-5f00-11eb-9f3e-662487da95ff.png)
+
+#### Add authorization header to the request
+make sure you include the authorization header request in your API to secure your API enter point
+![image](https://user-images.githubusercontent.com/26094307/105742576-50321e80-5f01-11eb-87a3-bdd0965e3b08.png)
+
+You can swithc normal http to AuthHttp to avoid the header adding code
+![image](https://user-images.githubusercontent.com/26094307/105743011-d51d3800-5f01-11eb-8603-e7edde7b3375.png)
+
+#### Recap
+![image](https://user-images.githubusercontent.com/26094307/105743166-0138b900-5f02-11eb-9272-62fb7989fb15.png)
+![image](https://user-images.githubusercontent.com/26094307/105743245-19103d00-5f02-11eb-9c6c-6768b0b24d07.png)
+
