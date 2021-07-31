@@ -1,0 +1,125 @@
+{
+    "root": {
+        "data": {
+            "id": "cd6t3q7bf2w0",
+            "created": 1627681969886,
+            "text": "Design Pattern"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cd6t3swcrhk0",
+                    "created": 1627681975754,
+                    "text": "Category",
+                    "layout_mind_offset": {
+                        "x": -70,
+                        "y": -137
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cd6t55eu2o00",
+                            "created": 1627682081357,
+                            "text": "Creational"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cd6t73n3uz40",
+                                    "created": 1627682234232,
+                                    "text": "Builder"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6t78m36js0",
+                                    "created": 1627682245054,
+                                    "text": "Factory",
+                                    "layout_right_offset": {
+                                        "x": 1.6666666004394983,
+                                        "y": -65.8333307173518
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t5h8o6o00",
+                            "created": 1627682107105,
+                            "text": "Structural"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t5kwafhs0",
+                            "created": 1627682115064,
+                            "text": "Behavioral"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cd6t4j0b2540",
+                    "created": 1627682032589,
+                    "text": "Princple",
+                    "layout_mind_offset": {
+                        "x": 497,
+                        "y": 120
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cd6t4o505200",
+                            "created": 1627682043757,
+                            "text": "S"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t4re3gkw0",
+                            "created": 1627682050837,
+                            "text": "O"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t4vwfhds0",
+                            "created": 1627682060653,
+                            "text": "L"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t4xw9utc0",
+                            "created": 1627682064997,
+                            "text": "I"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t50xkafs0",
+                            "created": 1627682071605,
+                            "text": "D"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue-compat",
+    "version": "1.4.43"
+}
