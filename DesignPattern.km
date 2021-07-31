@@ -1,0 +1,361 @@
+{
+    "root": {
+        "data": {
+            "id": "cd6t3q7bf2w0",
+            "created": 1627681969886,
+            "text": "Design Pattern"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cd6t3swcrhk0",
+                    "created": 1627681975754,
+                    "text": "Category",
+                    "layout_mind_offset": {
+                        "x": -70,
+                        "y": -137
+                    },
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cd6t55eu2o00",
+                            "created": 1627682081357,
+                            "text": "Creational - 4(5)",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cd6t73n3uz40",
+                                    "created": 1627682234232,
+                                    "text": "Builder",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6t78m36js0",
+                                    "created": 1627682245054,
+                                    "text": "Factory",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zo8afrhs0",
+                                    "created": 1627700503200,
+                                    "text": "AbstractFactory",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zngt0nc00",
+                                    "created": 1627700443373,
+                                    "text": "Prototype",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zo17f65s0",
+                                    "created": 1627700487780,
+                                    "text": "Singleton",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t5h8o6o00",
+                            "created": 1627682107105,
+                            "text": "Structural- 7",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cd6zpfbn9zk0",
+                                    "created": 1627700596874,
+                                    "text": "Adapter",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zpiv8s9k0",
+                                    "created": 1627700604590,
+                                    "text": "Bridge",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zpleg4hs0",
+                                    "created": 1627700610104,
+                                    "text": "Composite",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zpof77s00",
+                                    "created": 1627700616680,
+                                    "text": "Decorator",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zpzam3fc0",
+                                    "created": 1627700640348,
+                                    "text": "Façade",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zsiqccww0",
+                                    "created": 1627700839386,
+                                    "text": "Flyweight",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zssxfc2g0",
+                                    "created": 1627700861582,
+                                    "text": "Proxy",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t5kwafhs0",
+                            "created": 1627682115064,
+                            "text": "Behavioral - 11",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cd6zt6mjwbk0",
+                                    "created": 1627700891399,
+                                    "text": "Chain of Responsibility",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6ztayr3540",
+                                    "created": 1627700900844,
+                                    "text": "Command",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6ztdmywio0",
+                                    "created": 1627700906662,
+                                    "text": "Interpreter",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zthlqboo0",
+                                    "created": 1627700915294,
+                                    "text": "Iterator",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6ztkkzhso0",
+                                    "created": 1627700921780,
+                                    "text": "Mediator",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6ztpki0ns0",
+                                    "created": 1627700932634,
+                                    "text": "Memento",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6ztwclii00",
+                                    "created": 1627700947394,
+                                    "text": "Observer",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6ztzlbucg0",
+                                    "created": 1627700954452,
+                                    "text": "State",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zu2e9nmo0",
+                                    "created": 1627700960556,
+                                    "text": "Strategy",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zu7p4ay00",
+                                    "created": 1627700972096,
+                                    "text": "Template Method",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cd6zubbl1qg0",
+                                    "created": 1627700979984,
+                                    "text": "Visitor",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cd6t4j0b2540",
+                    "created": 1627682032589,
+                    "text": "SOLID Princple",
+                    "layout_mind_offset": {
+                        "x": 497,
+                        "y": 120
+                    },
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cd6t4o505200",
+                            "created": 1627682043757,
+                            "text": "Single Responsibility",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t4re3gkw0",
+                            "created": 1627682050837,
+                            "text": "Open-Closed",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t4vwfhds0",
+                            "created": 1627682060653,
+                            "text": "Liskov Substitution",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t4xw9utc0",
+                            "created": 1627682064997,
+                            "text": "Interface Segregation",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6t50xkafs0",
+                            "created": 1627682071605,
+                            "text": "Dipendency Inversion",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6zygb0ft40",
+                            "created": 1627701304290,
+                            "text": "- Least Knowledge(Demeter)",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cd6zytc4ysw0",
+                            "created": 1627701332656,
+                            "text": "- Composite Reuse",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cd6zvi6jdw80",
+                    "created": 1627701073281,
+                    "text": "Misc.",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cd6zvkwjfvs0",
+                            "created": 1627701079207,
+                            "text": "Null Object",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue-compat",
+    "version": "1.4.43"
+}
