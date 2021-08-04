@@ -124,7 +124,16 @@
                                     "text": "Façade",
                                     "layout": null
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdaxybiuxv40",
+                                            "created": 1628101891488,
+                                            "text": "Exposing several components (func, field, property, class etc) through a single interface (class etc)."
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
@@ -133,7 +142,16 @@
                                     "text": "Flyweight",
                                     "layout": null
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdaxysno9b40",
+                                            "created": 1628101928784,
+                                            "text": "Save space in limit RAM. e.g. Use pointers instead of actual objects to store data."
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
