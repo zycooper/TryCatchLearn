@@ -422,6 +422,24 @@
                             "expandState": "expand"
                         },
                         "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cdbuqknvwnc0",
+                            "created": 1628194381096,
+                            "text": "Fluent interface",
+                            "font-size": 12
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdbuqqlslq80",
+                                    "created": 1628194394031,
+                                    "text": "Using method chaining to implement method cascading, concretely by having each method return the object to which it is attached"
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }
