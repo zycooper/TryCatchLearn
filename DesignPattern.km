@@ -160,7 +160,16 @@
                                     "text": "Proxy",
                                     "layout": null
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdbmxq08e9c0",
+                                            "created": 1628172372397,
+                                            "text": "Provide a substitute or placeholder for another object and controls access to the original object."
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     },
