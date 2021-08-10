@@ -143,6 +143,7 @@ namespace DotNetDesignPatternDemos.SOLID.OCP
       // ^^ BEFORE
 
       // vv AFTER
+      //abstract actual enum into different func/obj then add different obj into the actual func instead of modifying the filter func
       var bf = new BetterFilter();
       WriteLine("Green products (new):");
       foreach (var p in bf.Filter(products, new ColorSpecification(Color.Green)))
