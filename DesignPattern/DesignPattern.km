@@ -340,7 +340,16 @@
                             "layout": null,
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdco5tmv59k0",
+                                    "created": 1628277388275,
+                                    "text": "One class only handle one thing/task/problem."
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -350,7 +359,16 @@
                             "layout": null,
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdco5yw5hvs0",
+                                    "created": 1628277399721,
+                                    "text": "Classes should be open for extension but closed for modification."
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -360,7 +378,16 @@
                             "layout": null,
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdco5ztml2w0",
+                                    "created": 1628277401745,
+                                    "text": "Be able to substitute a base type for a subtype. e.g. rectangle r = new square()"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -370,7 +397,16 @@
                             "layout": null,
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdco60qb4yo0",
+                                    "created": 1628277403721,
+                                    "text": "YAGNI - You Ain't Going to Need It."
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -380,7 +416,16 @@
                             "layout": null,
                             "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdco61vlw7k0",
+                                    "created": 1628277406218,
+                                    "text": "High level modules should not depend upon low level ones; use abstractions. e.g. people relations"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
