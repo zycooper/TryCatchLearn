@@ -38,7 +38,16 @@
                                     "layout": null,
                                     "expandState": "expand"
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdgsqo81ezk0",
+                                            "created": 1628696546409,
+                                            "text": "Produce different types and representations of an object using the same construction code. Simplify the constructors! Wrap builder class(es) around an object."
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
@@ -48,7 +57,16 @@
                                     "layout": null,
                                     "expandState": "expand"
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdgx82ow3a80",
+                                            "created": 1628709194533,
+                                            "text": "Convert complicated constructors with multiple optional params into different factory (static) method/class."
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
@@ -58,7 +76,16 @@
                                     "layout": null,
                                     "expandState": "expand"
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdgydeg7ins0",
+                                            "created": 1628712433060,
+                                            "text": "Convert factories into abstract class/interface instead of concrete class/method."
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
@@ -68,7 +95,16 @@
                                     "layout": null,
                                     "expandState": "expand"
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdgzta4lzwg0",
+                                            "created": 1628716498588,
+                                            "text": "Deep copy an object."
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
@@ -78,7 +114,16 @@
                                     "layout": null,
                                     "expandState": "expand"
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdh0dw4ezqw0",
+                                            "created": 1628718113749,
+                                            "text": "A class has only one instance, while providing a global access point to this instance."
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     },
