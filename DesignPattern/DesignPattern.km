@@ -145,7 +145,16 @@
                                     "layout": null,
                                     "expandState": "expand"
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdl06dl5dk00",
+                                            "created": 1629123764680,
+                                            "text": "Create a component which aggregates the adaptee. e.g. wrap Points into Line."
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
@@ -526,6 +535,40 @@
                                     "id": "cdbuqqlslq80",
                                     "created": 1628194394031,
                                     "text": "Using method chaining to implement method cascading, concretely by having each method return the object to which it is attached"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdkz55ziksg0",
+                            "created": 1629120848660,
+                            "text": "Cache"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdkzs7l1gyo0",
+                                    "created": 1629122654514,
+                                    "text": "Use a dictionary<int,object> or key-value pair to prevent duplicate in list."
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdl1cbouvs80",
+                            "created": 1629127051845,
+                            "text": "Cartesian Product"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdl1cmb79jc0",
+                                    "created": 1629127074964,
+                                    "text": "Color: red/blue + Size: small/big + Open: yes/no -> total 2*2*2 = 8 combination."
                                 },
                                 "children": []
                             }
