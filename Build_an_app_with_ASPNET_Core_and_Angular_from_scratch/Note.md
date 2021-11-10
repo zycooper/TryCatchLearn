@@ -1,9 +1,22 @@
 ### Questions need to search
-C# Attribute<br>
-List vs IEnumerable<br>
-C# Serialization<br>
-API return json format(camel case instead of capital case)<br>
-.Net 6 changes api structure<br>
+#### C# Attribute
+#### List vs IEnumerable
+#### C# Serialization
+#### API return json format(camel case instead of capital case)
+#### .Net 6 changes api structure
 
-Angular: OnInit is lifecycle hook which happens after the constructor<br>
-add cors  must be after userouting and before endpoints and authorization in api<br>
+#### Angular: OnInit is lifecycle hook which happens after the constructor
+#### add cors  must be after userouting and before endpoints and authorization in api
+
+#### Authentication
+Hashing the password - not a good way/not enough<br>
+Hashing and salt the password
+
+
+#### ASP.NET Identity
+#### DTO - Data Transfer Object - Why?
+
+#### c# method signature
+>Methods are declared in a class, struct, or interface by specifying the access level such as public or private, optional modifiers such as abstract or sealed, the return value, the name of the method, and any method parameters. These parts together are the signature of the method.
+
+#### authentication vs authorization
