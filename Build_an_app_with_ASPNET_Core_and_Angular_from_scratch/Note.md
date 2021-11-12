@@ -20,3 +20,7 @@ Hashing and salt the password
 >Methods are declared in a class, struct, or interface by specifying the access level such as public or private, optional modifiers such as abstract or sealed, the return value, the name of the method, and any method parameters. These parts together are the signature of the method.
 
 #### authentication vs authorization
+
+#### JSON Web Token
+
+testing is the main reason for creating an interface. (when place an interface along with the funciton that impleament it in the DI container in startup.cs)<br>
