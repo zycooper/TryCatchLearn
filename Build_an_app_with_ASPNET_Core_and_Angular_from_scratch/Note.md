@@ -24,3 +24,7 @@ Hashing and salt the password
 #### JSON Web Token
 
 testing is the main reason for creating an interface. (when place an interface along with the funciton that impleament it in the DI container in startup.cs)<br>
+
+#### observable(RxJS) vs promise (map/pipe)
+
+#### double exclamation !! in angular
