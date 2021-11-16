@@ -28,3 +28,5 @@ testing is the main reason for creating an interface. (when place an interface a
 #### observable(RxJS) vs promise (map/pipe)
 
 #### double exclamation !! in angular
+
+#### asyncpipe
