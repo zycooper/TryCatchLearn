@@ -38,3 +38,13 @@ testing is the main reason for creating an interface. (when place an interface a
 #### when [boject object]
 
 #### local company: neighbour Match
+
+#### ng-container is a good way to wrap some items in when you use conditional code like ngif, because it doesn't create any actual html item
+
+#### bootswatch
+
+#### the sequence inside angular.json->styles matters
+
+#### we cannot secure an app only front client side(route or guard), we have to do something on the back-end
+
+#### API middleware
