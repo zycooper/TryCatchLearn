@@ -48,3 +48,11 @@ testing is the main reason for creating an interface. (when place an interface a
 #### we cannot secure an app only front client side(route or guard), we have to do something on the back-end
 
 #### API middleware
+
+#### ActionResult
+
+#### RequestDelegate
+
+#### C# single question mark vs double question marks
+
+#### const, same scope like let, but cannot change once it bonds
