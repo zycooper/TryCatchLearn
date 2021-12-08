@@ -47,7 +47,9 @@ testing is the main reason for creating an interface. (when place an interface a
 
 #### we cannot secure an app only front client side(route or guard), we have to do something on the back-end
 
-#### API middleware
+#### API middleware -> APIException && ExceptionMiddleware
+
+#### RequestDelegate Ilogger<>
 
 #### ActionResult
 
@@ -56,3 +58,7 @@ testing is the main reason for creating an interface. (when place an interface a
 #### C# single question mark vs double question marks
 
 #### const, same scope like let, but cannot change once it bonds
+
+#### Eorror Interceptor
+
+#### javascript 2019(ES) flat function of array
