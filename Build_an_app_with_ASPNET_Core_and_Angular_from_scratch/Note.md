@@ -64,3 +64,11 @@ testing is the main reason for creating an interface. (when place an interface a
 #### javascript 2019(ES) flat function of array
 
 #### can only access the state through constructor, not the OnInit
+
+#### Repository Pattern
+
+#### eager loating
+
+#### DTO to solve avoid nested objects
+
+#### AutoMapper
