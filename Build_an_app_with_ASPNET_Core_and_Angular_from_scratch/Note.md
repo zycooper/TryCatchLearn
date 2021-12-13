@@ -72,3 +72,5 @@ testing is the main reason for creating an interface. (when place an interface a
 #### DTO to solve avoid nested objects
 
 #### AutoMapper
+
+#### JSON to TS -> convert sample json file to a TS interface declaration
