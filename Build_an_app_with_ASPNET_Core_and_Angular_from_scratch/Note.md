@@ -74,3 +74,18 @@ testing is the main reason for creating an interface. (when place an interface a
 #### AutoMapper
 
 #### JSON to TS -> convert sample json file to a TS interface declaration
+
+#### interceptor is a component of antular in default
+
+#### (<form #editForm>) editForm.dirty is boolean when a form component has been touched
+#### this.editform.rest(this.member);
+
+#### angular uses the name property to track the property in form, the name is case sensitive
+
+#### Guard: CanActivate(CanActivateChild), CanDeactivate and CanLoad
+
+#### Angular of function: pretent you are using a http(subscribe) instead of a instant array
+
+#### Angular: pipe take 1
+
+#### Rxjs -> take(1) vs first() https://stackoverflow.com/questions/42345969/take1-vs-first
