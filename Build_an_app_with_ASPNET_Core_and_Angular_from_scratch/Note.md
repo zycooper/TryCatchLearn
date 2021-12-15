@@ -67,7 +67,7 @@ testing is the main reason for creating an interface. (when place an interface a
 
 #### Repository Pattern
 
-#### eager loating
+#### eager loating vs lazy loading
 
 #### DTO to solve avoid nested objects
 
@@ -84,8 +84,23 @@ testing is the main reason for creating an interface. (when place an interface a
 
 #### Guard: CanActivate(CanActivateChild), CanDeactivate and CanLoad
 
-#### Angular of function: pretent you are using a http(subscribe) instead of a instant array
+#### Angular of function: pretent you are using a http(subscribe) instead of a instant array || of -> return something of observable
 
 #### Angular: pipe take 1
 
 #### Rxjs -> take(1) vs first() https://stackoverflow.com/questions/42345969/take1-vs-first
+
+#### services are singleton -> so you can save data(state in services)
+
+#### dollar sign(eg. member$) -> indicate that this variable is an Observable https://angular.io/guide/rx-library#naming-conventions-for-observables
+
+#### Upload photo -> create an service class take care of the photo physical storation then return id along with name,url etc then wrap this info into a photo class then attach it to the user object
+
+#### ng2-file-upload
+#### ngx-spinner
+
+### (ng)UI-Component -> (ng)Service -> (API)Controller -> (API)_repository/_context
+#### Reactive Froms vs Template_Driven Forms
+
+#### use FormBuilder servise then group all formControls into it
+
