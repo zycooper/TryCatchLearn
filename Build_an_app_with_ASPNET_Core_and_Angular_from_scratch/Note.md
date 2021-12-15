@@ -104,3 +104,6 @@ testing is the main reason for creating an interface. (when place an interface a
 
 #### use FormBuilder servise then group all formControls into it
 
+#### angular CoreModule vs SharedModule https://thetombomb.com/posts/app-core-shared-feature-modules
+
+#### ControlValueAccessor is used to create re-used components
