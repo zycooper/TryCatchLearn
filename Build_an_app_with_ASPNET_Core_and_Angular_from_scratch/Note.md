@@ -110,3 +110,16 @@ testing is the main reason for creating an interface. (when place an interface a
 #### angular CoreModule vs SharedModule https://thetombomb.com/posts/app-core-shared-feature-modules
 
 #### ControlValueAccessor is used to create re-used components
+
+#### C# IQueryable vs IEnumerable
+
+#### switch after orderby
+
+#### IAsyncActionFilter
+
+#### Lost: action filter
+
+#### because it's an angular bootstrap component or module, we'll need to use forRoot()
+#### Above: when to use Angular's forRoot() method https://medium.com/slackernoon/when-to-use-angulars-forroot-method-400094a0ebb7
+
+#### memberCache = new Map(); --> in Angular --> map is an RxJS operator
