@@ -123,3 +123,10 @@ testing is the main reason for creating an interface. (when place an interface a
 #### Above: when to use Angular's forRoot() method https://medium.com/slackernoon/when-to-use-angulars-forroot-method-400094a0ebb7
 
 #### memberCache = new Map(); --> in Angular --> map is an RxJS operator
+
+#### three dots -> spread operator in js/ts
+-create a copy of a object
+-destruct an array and pass them to parameters
+-avoid same definition
+
+#### Save filters -> save it in the service since service is singleton(but after refresh the page it will reset)
