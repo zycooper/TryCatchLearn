@@ -100,7 +100,7 @@ testing is the main reason for creating an interface. (when place an interface a
 #### ngx-spinner
 
 ### (ng)UI-Component -> (ng)Service -> (API)Controller -> (API)_repository/_context
-#### Reactive Froms vs Template_Driven Forms 
+#### Reactive Froms vs Template_Driven Forms
 ##### https://www.pluralsight.com/guides/difference-between-template-driven-and-reactive-forms-angular
 ##### https://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/
 ##### https://i.stack.imgur.com/HZQlS.png
@@ -132,3 +132,5 @@ testing is the main reason for creating an interface. (when place an interface a
 #### Save filters -> save it in the service since service is singleton(but after refresh the page it will reset)
 
 #### why DI in web api/mvc
+
+### Adding the messaging feature
