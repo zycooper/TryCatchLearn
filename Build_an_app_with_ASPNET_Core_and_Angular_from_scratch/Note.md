@@ -134,3 +134,7 @@ testing is the main reason for creating an interface. (when place an interface a
 #### why DI in web api/mvc
 
 ### Adding the messaging feature
+
+### Using route resolvers -> need more attetion
+
+### underscore ("_") in C#
