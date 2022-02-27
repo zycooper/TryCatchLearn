@@ -135,6 +135,10 @@ testing is the main reason for creating an interface. (when place an interface a
 
 ### Adding the messaging feature
 
-### Using route resolvers -> need more attetion
-
-### underscore ("_") in C#
+### [FromQuery]
+url smaple : controller/{username} -> url/lisa?roles=admin,member
+controller function 
+func example_func(string username, [FromQuery]roles)
+{
+    //roles == admin,member
+}
