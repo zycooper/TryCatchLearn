@@ -151,3 +151,16 @@ header | payload | signature
 
 ### || -> or
 user.KnownAs || user.username -> if knownas is null, just username
+
+### SignalR
+Http is a protocal and web socket is also a protocol
+signalR will choose the best way among web socket, server-send event or long-polling
+signalR or web socket cannot send request with authentication header
+
+### baseUrl
+under environments folder, the environment.ts could store the qas base url and prd url
+
+### dictionary in .net is not thread secure
+if multiple users are trying to read/write the same static dictionary simultaneously, it could wrong into problem. Solution -> use lock
+
+### thread safe
