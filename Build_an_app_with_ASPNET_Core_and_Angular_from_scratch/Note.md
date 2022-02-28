@@ -142,3 +142,12 @@ func example_func(string username, [FromQuery]roles)
 {
     //roles == admin,member
 }
+
+### getDecodedToken
+atob(token.split('.'[1]))
+
+### jwt
+header | payload | signature
+
+### || -> or
+user.KnownAs || user.username -> if knownas is null, just username
