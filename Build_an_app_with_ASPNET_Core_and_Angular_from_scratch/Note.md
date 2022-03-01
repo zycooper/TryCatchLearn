@@ -137,7 +137,7 @@ testing is the main reason for creating an interface. (when place an interface a
 
 ### [FromQuery]
 url smaple : controller/{username} -> url/lisa?roles=admin,member
-controller function 
+controller function
 func example_func(string username, [FromQuery]roles)
 {
     //roles == admin,member
@@ -166,8 +166,20 @@ if multiple users are trying to read/write the same static dictionary simultaneo
 ### thread safe
 
 ### ??? param$ param with a $ sign at last??
-$ means observerbal 
+$ means observerbal
 
-### pipe take next
+### pipe take next some
 
 ### why dto???
+
+### http vs web socket
+
+### return type for Task<T>
+return Task.FromResult(paramOfT);
+
+### Unit of Work
+
+### ProjectTo<T> in LINQ
+
+### JASONIGNORE property in dotnet
+
