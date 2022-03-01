@@ -164,3 +164,10 @@ under environments folder, the environment.ts could store the qas base url and p
 if multiple users are trying to read/write the same static dictionary simultaneously, it could wrong into problem. Solution -> use lock
 
 ### thread safe
+
+### ??? param$ param with a $ sign at last??
+$ means observerbal 
+
+### pipe take next
+
+### why dto???
