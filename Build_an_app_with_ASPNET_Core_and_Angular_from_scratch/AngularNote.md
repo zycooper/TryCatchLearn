@@ -35,7 +35,7 @@ testing is the main reason for creating an interface. (when place an interface a
 
 #### toast service ngx-toastr
 
-#### when [boject object]
+#### when [object object]
 
 #### local company: neighbour Match
 
