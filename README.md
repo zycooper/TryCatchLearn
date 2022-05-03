@@ -24,3 +24,4 @@ Working on:
 
 Future Queue:
 - Cloud
+- Better error handling
