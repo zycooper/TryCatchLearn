@@ -5,6 +5,8 @@ Backend:
 - C#
 - Java
 - VB
+- MVC
+- EF
 
 Frontend:
 - Angular
